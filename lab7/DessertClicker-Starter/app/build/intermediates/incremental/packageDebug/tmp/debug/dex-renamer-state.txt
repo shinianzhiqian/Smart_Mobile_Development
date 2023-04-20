@@ -1,0 +1,4 @@
+#Thu Apr 13 21:49:04 CST 2023
+base.0=D\:\\WorkSpace\\Smart Mobile Development\\lab7\\DessertClicker-Starter\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
